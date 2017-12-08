@@ -1,4 +1,4 @@
-package com.example.jeson316.testdemo.okhttpUtils;
+package com.example.jeson316.app.okhttpUtils;
 
 /**
  * Created by jeson316 on 2017/10/17.

@@ -4,7 +4,7 @@ android {
     compileSdkVersion 26
     buildToolsVersion "26.0.2"
     defaultConfig {
-        applicationId "com.example.jeson316.testdemo"
+        applicationId "com.example.jeson316.app"
         minSdkVersion 15
         targetSdkVersion 26
         versionCode 1
@@ -15,6 +15,9 @@ android {
         release {
             minifyEnabled false
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+        debug {
+            applicationIdSuffix "debug"
         }
     }
 }

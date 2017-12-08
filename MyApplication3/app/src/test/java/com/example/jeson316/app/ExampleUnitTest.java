@@ -1,4 +1,4 @@
-package com.example.jeson316.testdemo;
+package com.example.jeson316.app;
 
 import org.junit.Test;
 
